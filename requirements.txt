@@ -3,3 +3,4 @@ SpeechRecognition
 pydub
 portaudio19-dev
 pyaudio
+google-generativeai

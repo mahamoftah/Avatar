@@ -1,10 +1,10 @@
-## **Run the Project:**
+## **Run the Project**
 
-- git clone https://github.com/mahamoftah/Avatar.git
+  git clone https://github.com/mahamoftah/Avatar.git
   
-- cd Avatar
+  cd Avatar
   
-- pip install -r requirements. txt
+  pip install -r requirements. txt
 
 - Download [NVIDIA Omniverse Launcher](https://www.nvidia.com/en-us/omniverse/download/).
 - After NVIDIA Omniverse Launcher setup, Install **Omniverse Audio2Face** Library.

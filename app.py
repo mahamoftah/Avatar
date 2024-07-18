@@ -20,7 +20,7 @@ asr = sr.Recognizer()
 a2f_url = 'localhost:50051'
 sample_rate = 22050
 a2f_avatar_instance = '/World/audio2face/PlayerStreaming'
-GOOGLE_API_KEY = "AIzaSyBaz13UTSLEsag18c_rHQ9yFUbX4sx3YYM"
+GOOGLE_API_KEY = ""
 
 
 @contextlib.contextmanager
